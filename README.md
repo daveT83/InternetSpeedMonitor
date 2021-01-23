@@ -6,5 +6,5 @@ Please be sure to change the following settings in the App.config file, before y
   LogFolder: This will be the directory that the log files will write to.
   ResultsFolder: this will be the directory that the csv file is generated in.
   
-As of right now only 2 servers are available to test from. They are located in New Yoek and California. To select the server closest to you please check the App.config file and mark the UseCalifiornia setting to 'True' if you wish to use the California server or the UseNewYork setting to 'True' if you would like to use the New York server. The other option should be 'False'.
+As of right now only 2 servers are available to test from. They are located in New York and California. To select the server closest to you please check the App.config file and mark the UseCalifiornia setting to 'True' if you wish to use the California server or the UseNewYork setting to 'True' if you would like to use the New York server. The other option should be 'False'.
   
